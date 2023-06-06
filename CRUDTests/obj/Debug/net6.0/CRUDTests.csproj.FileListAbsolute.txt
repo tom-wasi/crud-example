@@ -97,3 +97,10 @@ C:\aspnetcorelearning\CRUDExample\CRUDTests\obj\Debug\net6.0\refint\CRUDTests.dl
 C:\aspnetcorelearning\CRUDExample\CRUDTests\obj\Debug\net6.0\CRUDTests.pdb
 C:\aspnetcorelearning\CRUDExample\CRUDTests\obj\Debug\net6.0\CRUDTests.genruntimeconfig.cache
 C:\aspnetcorelearning\CRUDExample\CRUDTests\obj\Debug\net6.0\ref\CRUDTests.dll
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\Entities.dll
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\ServiceContracts.dll
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\Services.dll
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\Entities.pdb
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\ServiceContracts.pdb
+C:\aspnetcorelearning\CRUDExample\CRUDTests\bin\Debug\net6.0\Services.pdb
